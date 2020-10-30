@@ -75,11 +75,5 @@ public class rottenOrange2DArray {
     }
 
 
-    public static void main(String[] args) {
-        int[][] test = {{2,1,1},
-                        {1,1,0},
-                        {0,1,1}};
-
-        System.out.println(orangesRotting(test));
-    }
+    
 }
